@@ -52,27 +52,21 @@ streamlit run app.py
 
 Then open the URL Streamlit prints (usually `http://localhost:8501`).
 
-## Deploy to GitHub + Streamlit Community Cloud
+## GitHub repository
 
-1. **Create a GitHub repo** (from this `lab10/` folder):
+**https://github.com/myglord/streamlit-delivery-management** (private)
 
-   ```bash
-   git init
-   git add app.py requirements.txt generate_dataset.py delivery_orders.csv README.md .gitignore
-   git commit -m "Order delivery management Streamlit app"
-   git branch -M main
-   git remote add origin https://github.com/<your-username>/<repo-name>.git
-   git push -u origin main
-   ```
+## Deploy to Streamlit Community Cloud
 
-2. **Deploy on Streamlit Cloud**
-   - Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub.
-   - Click **"New app"** → pick your repo, branch `main`, main file path `app.py`.
-   - Click **Deploy**. The first build takes 1–3 minutes.
-   - Your app will be live at `https://<something>.streamlit.app`.
-
-3. **Update this README** with your actual GitHub repo link and the live
-   Streamlit Cloud URL once deployed, for your submission.
+1. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub.
+2. Since this repo is **private**, authorize the Streamlit app for private-repo
+   access when prompted (GitHub → Settings → Applications → Streamlit, or
+   accept the OAuth prompt during setup).
+3. Click **"New app"** → pick `myglord/streamlit-delivery-management`,
+   branch `main`, main file path `app.py`.
+4. Click **Deploy**. The first build takes 1–3 minutes.
+5. Your app will be live at `https://<something>.streamlit.app`.
+6. **Update this README** with the live Streamlit Cloud URL once deployed.
 
 ## Screenshots for submission
 
@@ -90,7 +84,7 @@ On Windows: `Win+Shift+S`. Save them into a `screenshots/` folder alongside
 
 - [x] `app.py`
 - [x] `requirements.txt`
-- [ ] GitHub repository link
+- [x] GitHub repository link — https://github.com/myglord/streamlit-delivery-management
 - [ ] Streamlit Cloud app URL
 - [x] Sample dataset (`delivery_orders.csv`)
 - [ ] Screenshots (Home page + output pages)
