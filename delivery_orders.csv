@@ -1,0 +1,351 @@
+order_id,customer_name,city,restaurant,cuisine,order_date,order_hour,item_count,order_amount,discount_percent,delivery_fee,distance_km,payment_method,delivery_partner,status,estimated_delivery_min,actual_delivery_min,customer_rating,lat,lon
+5001,Ife Bello,Lagos,The Pizza Yard,Indian,2026-08-05,18,6,5342.53,0,550.45,3.74,Card,Ruth W.,Delivered,40,39,4.5,6.55444,3.33884
+5002,Ada Osei,Accra,Mama Put Kitchen,Indian,2026-07-21,11,2,5910.72,5,477.0,2.84,Wallet,Ruth W.,Preparing,25,0,,5.5589,-0.14913
+5003,John Adeyemi,Accra,Green Bowl,Chinese,2026-08-14,10,3,6277.06,10,355.02,0.69,Wallet,Ngozi E.,Out for Delivery,18,0,,5.69426,-0.08034
+5004,Yusuf Nwosu,Nairobi,Golden Wok,Chinese,2026-07-03,19,2,3740.5,0,563.8,2.94,Mobile Money,Fatima B.,Preparing,37,0,,-1.30969,36.81881
+5005,Tariq Okafor,Nairobi,Sweet Treats Bakery,Local,2026-07-08,9,2,6925.7,0,579.94,3.44,Cash on Delivery,Ngozi E.,Out for Delivery,40,0,,-1.30555,36.75468
+5006,David Chukwu,Kampala,Sweet Treats Bakery,Indian,2026-08-13,20,3,4117.71,0,507.87,2.22,Mobile Money,Chidi O.,Delivered,34,35,3.1,0.41946,32.51526
+5007,Emeka Adeyemi,Lagos,Spice Route,Local,2026-07-13,19,7,5344.49,10,411.05,1.25,Mobile Money,Chidi O.,Delivered,22,20,4.3,6.55735,3.41803
+5008,Kelechi Otieno,Accra,Curry Leaf,Indian,2026-07-14,22,7,2648.66,5,420.81,1.2,Card,Kwame N.,Out for Delivery,21,0,,5.71376,-0.18999
+5009,Ife Abara,Abuja,Mama Put Kitchen,Italian,2026-08-05,18,3,3325.3,10,1244.17,9.44,Card,Kwame N.,Delivered,47,52,3.6,9.08894,7.44244
+5010,Grace Chukwu,Lagos,Burger Barn,Italian,2026-07-09,21,4,6602.08,15,566.51,3.37,Cash on Delivery,Kwame N.,Delivered,30,32,5.0,6.50455,3.35252
+5011,Blessing Chukwu,Nairobi,Curry Leaf,Fast Food,2026-07-24,9,7,6289.14,10,479.32,2.22,Cash on Delivery,Fatima B.,Cancelled,23,0,,-1.32269,36.86343
+5012,Kelechi Okafor,Kampala,Curry Leaf,Indian,2026-07-13,21,2,3879.73,20,608.15,3.24,Card,Fatima B.,Delivered,28,28,4.3,0.25525,32.57459
+5013,Mary Abara,Accra,Green Bowl,Fast Food,2026-07-09,10,7,4962.66,10,596.94,3.1,Cash on Delivery,Tunde A.,Out for Delivery,30,0,,5.58977,-0.22363
+5014,Ife Mensah,Accra,Curry Leaf,Fast Food,2026-08-13,12,1,3849.69,15,391.5,1.16,Cash on Delivery,Kwame N.,Delivered,15,9,4.5,5.66093,-0.20705
+5015,Blessing Osei,Accra,Spice Route,Continental,2026-07-09,9,2,6189.42,15,742.2,5.54,Mobile Money,Kwame N.,Delivered,48,48,4.9,5.63364,-0.24685
+5016,Peace Osei,Accra,The Pizza Yard,Fast Food,2026-07-05,14,3,7347.99,10,583.58,2.79,Wallet,Ruth W.,Cancelled,32,0,,5.60472,-0.08753
+5017,John Mensah,Nairobi,Golden Wok,Indian,2026-07-31,19,1,1381.7,15,636.07,3.4,Card,Kwame N.,Delivered,41,35,4.3,-1.34185,36.81708
+5018,Joy Bello,Lagos,Urban Grill,Italian,2026-08-09,12,6,5661.42,15,812.82,7.53,Mobile Money,Fatima B.,Delivered,44,34,4.8,6.53574,3.41143
+5019,Mary Mensah,Kampala,Mama Put Kitchen,Chinese,2026-07-06,20,6,4856.27,5,409.81,1.27,Wallet,Tunde A.,Pending,24,0,,0.39824,32.55566
+5020,Musa Abara,Nairobi,Burger Barn,Indian,2026-08-01,17,3,5164.32,10,512.36,1.87,Cash on Delivery,Amara K.,Delivered,27,30,4.3,-1.27056,36.7693
+5021,Zainab Kamau,Nairobi,Urban Grill,Local,2026-07-25,17,6,5808.37,5,540.63,3.87,Card,Chidi O.,Delivered,34,29,4.0,-1.28376,36.81021
+5022,Tariq Chukwu,Abuja,Ocean Basket,Continental,2026-08-07,22,6,4968.18,15,908.86,5.47,Card,Fatima B.,Delivered,56,71,4.2,9.03665,7.45366
+5023,Peace Okafor,Lagos,Golden Wok,Continental,2026-07-06,14,6,5588.25,5,445.16,2.08,Cash on Delivery,Chidi O.,Delivered,34,39,4.0,6.56776,3.35316
+5024,Grace Okafor,Kampala,Urban Grill,Local,2026-08-13,13,6,5677.12,15,495.34,2.16,Mobile Money,Fatima B.,Delivered,30,37,4.4,0.191,32.53897
+5025,Yusuf Mensah,Accra,Curry Leaf,Fast Food,2026-07-28,22,5,4652.86,10,700.81,4.69,Card,Samuel T.,Delivered,42,46,5.0,5.62284,-0.17923
+5026,Zainab Kamau,Accra,Mama Put Kitchen,Local,2026-08-07,16,1,3734.65,20,974.56,11.13,Card,Amara K.,Delivered,74,85,4.1,5.73222,-0.16205
+5027,Emeka Adeyemi,Nairobi,Burger Barn,Fast Food,2026-07-17,17,7,8617.88,0,680.4,3.31,Cash on Delivery,Chidi O.,Delivered,31,26,4.5,-1.36752,36.90404
+5028,Ada Chukwu,Kampala,Burger Barn,Local,2026-08-12,12,5,6854.42,10,462.37,1.86,Cash on Delivery,Amara K.,Delivered,22,8,5.0,0.33553,32.60019
+5029,Kelechi Otieno,Nairobi,Urban Grill,Italian,2026-07-29,11,7,4721.93,10,478.23,1.52,Wallet,Chidi O.,Delivered,22,19,4.0,-1.2925,36.8541
+5030,Blessing Osei,Nairobi,Green Bowl,Indian,2026-07-06,10,7,8348.56,15,522.35,2.88,Cash on Delivery,Ngozi E.,Delivered,25,28,5.0,-1.31523,36.85786
+5031,Grace Otieno,Nairobi,Mama Put Kitchen,Fast Food,2026-08-11,11,2,6010.93,15,894.6,5.31,Cash on Delivery,Tunde A.,Out for Delivery,39,0,,-1.24028,36.76425
+5032,Musa Kamau,Abuja,Sweet Treats Bakery,Italian,2026-08-05,10,3,2391.49,5,1937.88,14.2,Cash on Delivery,Chidi O.,Delivered,87,88,5.0,9.10012,7.35043
+5033,Ife Kamau,Lagos,Sweet Treats Bakery,Continental,2026-07-14,19,2,4582.36,5,540.06,2.57,Card,Tunde A.,Delivered,29,36,4.8,6.53202,3.32501
+5034,Blessing Abara,Nairobi,Green Bowl,Fast Food,2026-07-25,8,1,2921.16,0,539.57,3.32,Card,Ruth W.,Delivered,40,42,4.5,-1.25224,36.75529
+5035,Kelechi Kamau,Kampala,Mama Put Kitchen,Chinese,2026-07-18,17,7,7793.22,20,1156.44,8.47,Card,Ngozi E.,Cancelled,45,0,,0.34844,32.62227
+5036,Blessing Mensah,Lagos,Spice Route,Fast Food,2026-07-25,22,7,4724.65,0,655.96,3.83,Cash on Delivery,Amara K.,Delivered,35,29,3.9,6.68339,3.3937
+5037,Ada Adeyemi,Kampala,Mama Put Kitchen,Fast Food,2026-08-13,19,7,5689.21,10,723.52,3.63,Cash on Delivery,Amara K.,Delivered,32,25,4.3,0.35517,32.58647
+5038,John Okafor,Kampala,Curry Leaf,Italian,2026-08-10,14,7,3755.77,10,945.08,7.47,Mobile Money,Tunde A.,Delivered,58,67,4.8,0.35736,32.45286
+5039,Tariq Abara,Abuja,Curry Leaf,Fast Food,2026-07-10,8,5,5575.72,5,556.49,3.37,Card,Fatima B.,Delivered,32,32,4.3,8.99098,7.50137
+5040,Mary Mensah,Accra,Spice Route,Continental,2026-08-13,20,4,7338.89,0,409.96,1.61,Card,Samuel T.,Delivered,29,25,4.1,5.57653,-0.23171
+5041,Ife Okafor,Lagos,Burger Barn,Fast Food,2026-07-20,8,7,6287.94,0,966.54,6.54,Mobile Money,Kwame N.,Out for Delivery,56,0,,6.58177,3.48179
+5042,Zainab Okafor,Accra,Spice Route,Fast Food,2026-08-01,18,4,7462.32,15,423.18,1.04,Mobile Money,Ruth W.,Delivered,22,18,4.9,5.53693,-0.25946
+5043,David Otieno,Accra,Urban Grill,Indian,2026-08-04,18,5,7958.51,5,661.57,5.86,Cash on Delivery,Chidi O.,Out for Delivery,44,0,,5.49582,-0.22762
+5044,Peace Chukwu,Abuja,The Pizza Yard,Chinese,2026-07-22,10,2,6611.31,0,628.94,3.15,Card,Chidi O.,Out for Delivery,36,0,,9.07812,7.28846
+5045,Musa Abara,Lagos,Burger Barn,Fast Food,2026-07-21,19,6,4693.79,10,599.44,2.59,Card,Fatima B.,Delivered,35,25,3.9,6.59294,3.39731
+5046,Ife Otieno,Kampala,Curry Leaf,Italian,2026-07-21,10,6,7340.11,0,464.44,2.55,Cash on Delivery,Amara K.,Delivered,30,28,4.5,0.34972,32.52744
+5047,Tariq Osei,Nairobi,Mama Put Kitchen,Indian,2026-08-08,11,5,2857.67,15,491.17,2.87,Mobile Money,Ruth W.,Out for Delivery,40,0,,-1.30891,36.76825
+5048,Peace Osei,Kampala,Spice Route,Chinese,2026-07-18,20,4,4927.95,0,538.57,2.35,Card,Amara K.,Delivered,37,43,5.0,0.25468,32.51387
+5049,Peace Bello,Accra,Green Bowl,Chinese,2026-07-13,22,2,6237.25,0,714.3,4.19,Mobile Money,Fatima B.,Delivered,31,32,3.5,5.62631,-0.14813
+5050,Joy Abara,Accra,Urban Grill,Local,2026-07-17,11,1,5186.18,0,454.55,2.41,Mobile Money,Kwame N.,Preparing,30,0,,5.63676,-0.15143
+5051,Mary Adeyemi,Accra,Sweet Treats Bakery,Continental,2026-07-09,21,5,4757.32,5,648.91,3.17,Card,Tunde A.,Pending,35,0,,5.51461,-0.0964
+5052,Musa Nwosu,Lagos,Burger Barn,Local,2026-07-18,21,5,4895.61,5,374.04,0.81,Wallet,Fatima B.,Delivered,18,17,4.1,6.58113,3.34491
+5053,Peace Otieno,Abuja,Urban Grill,Local,2026-07-06,19,6,7974.05,10,660.46,3.15,Card,Fatima B.,Delivered,38,40,5.0,9.11478,7.40954
+5054,Musa Nwosu,Nairobi,Sweet Treats Bakery,Continental,2026-07-05,10,7,7400.27,5,561.42,2.32,Mobile Money,Chidi O.,Delivered,35,39,3.4,-1.23548,36.75743
+5055,Grace Bello,Nairobi,Golden Wok,Indian,2026-08-02,12,4,4763.66,0,907.92,5.59,Cash on Delivery,Amara K.,Preparing,41,0,,-1.26292,36.80515
+5056,Joy Otieno,Lagos,The Pizza Yard,Italian,2026-07-04,18,6,8083.59,0,541.94,2.66,Card,Tunde A.,Delivered,32,38,3.8,6.55708,3.35326
+5057,Mary Nwosu,Nairobi,Golden Wok,Fast Food,2026-07-26,22,6,3329.2,0,682.27,5.09,Card,Tunde A.,Preparing,47,0,,-1.26606,36.84512
+5058,Yusuf Adeyemi,Lagos,Spice Route,Italian,2026-08-05,20,2,2222.13,15,727.4,4.73,Cash on Delivery,Fatima B.,Delivered,45,49,4.7,6.56782,3.43005
+5059,Emeka Kamau,Accra,Sweet Treats Bakery,Local,2026-08-02,14,6,5930.77,0,617.69,4.81,Card,Tunde A.,Cancelled,48,0,,5.51276,-0.13745
+5060,Tariq Okafor,Accra,Mama Put Kitchen,Fast Food,2026-07-21,11,1,6699.59,20,571.72,2.73,Wallet,Ruth W.,Out for Delivery,37,0,,5.52865,-0.22914
+5061,Blessing Bello,Kampala,Spice Route,Chinese,2026-07-09,22,5,3732.69,0,523.85,3.29,Card,Amara K.,Preparing,43,0,,0.3108,32.63242
+5062,Joy Okafor,Accra,Green Bowl,Indian,2026-08-11,12,7,3872.09,0,673.56,4.12,Cash on Delivery,Ngozi E.,Delivered,34,38,5.0,5.59721,-0.1892
+5063,Grace Bello,Abuja,Green Bowl,Continental,2026-08-07,13,5,3890.06,0,511.93,3.35,Cash on Delivery,Ngozi E.,Delivered,36,39,4.1,9.09591,7.38237
+5064,Mary Okafor,Kampala,Spice Route,Continental,2026-07-28,22,7,7671.32,0,508.18,2.67,Cash on Delivery,Fatima B.,Delivered,29,31,4.7,0.36383,32.54707
+5065,Ada Chukwu,Nairobi,Mama Put Kitchen,Italian,2026-07-04,16,1,2396.58,10,426.41,1.71,Cash on Delivery,Ruth W.,Cancelled,29,0,,-1.23624,36.7939
+5066,Tariq Chukwu,Abuja,Ocean Basket,Fast Food,2026-07-02,11,4,4841.7,5,610.07,3.19,Wallet,Tunde A.,Pending,28,0,,9.13392,7.48572
+5067,David Adeyemi,Kampala,Sweet Treats Bakery,Indian,2026-07-15,8,6,7730.05,0,420.07,1.12,Card,Amara K.,Preparing,16,0,,0.30398,32.59787
+5068,Kelechi Otieno,Abuja,Spice Route,Italian,2026-07-08,14,5,2899.55,10,349.48,0.78,Cash on Delivery,Chidi O.,Delivered,17,19,5.0,9.08843,7.40733
+5069,Kelechi Okafor,Lagos,Green Bowl,Local,2026-08-08,22,7,6120.69,10,462.08,1.46,Card,Amara K.,Out for Delivery,22,0,,6.48201,3.36609
+5070,Grace Adeyemi,Nairobi,The Pizza Yard,Italian,2026-07-10,14,4,4342.81,15,833.67,4.78,Cash on Delivery,Chidi O.,Delivered,46,52,4.3,-1.30151,36.9442
+5071,Zainab Okafor,Accra,Sweet Treats Bakery,Indian,2026-07-13,18,5,7839.47,20,595.57,3.67,Cash on Delivery,Chidi O.,Delivered,39,33,3.6,5.61979,-0.12175
+5072,Ife Kamau,Lagos,Ocean Basket,Continental,2026-08-13,11,3,4131.66,10,778.79,4.81,Mobile Money,Samuel T.,Preparing,43,0,,6.35396,3.34315
+5073,Musa Okafor,Nairobi,Burger Barn,Local,2026-08-06,19,7,5961.67,15,466.63,1.98,Card,Chidi O.,Delivered,31,40,4.8,-1.17154,36.80822
+5074,Emeka Chukwu,Lagos,The Pizza Yard,Fast Food,2026-07-10,19,1,2211.43,10,712.74,5.96,Wallet,Ruth W.,Preparing,37,0,,6.55272,3.36849
+5075,David Kamau,Accra,Golden Wok,Continental,2026-07-18,17,2,5957.41,5,410.06,1.2,Card,Samuel T.,Delivered,23,20,4.0,5.57391,-0.17971
+5076,Musa Chukwu,Nairobi,Spice Route,Continental,2026-07-24,19,1,5540.96,10,397.77,1.5,Card,Ruth W.,Delivered,28,29,4.9,-1.19573,36.78684
+5077,Blessing Adeyemi,Abuja,Curry Leaf,Italian,2026-07-30,16,5,3398.16,0,963.85,5.89,Mobile Money,Tunde A.,Delivered,55,55,5.0,9.05913,7.42054
+5078,Grace Adeyemi,Abuja,Curry Leaf,Local,2026-08-12,13,2,3768.87,10,704.1,3.5,Wallet,Ruth W.,Delivered,27,10,3.3,9.08313,7.4712
+5079,Blessing Bello,Nairobi,Mama Put Kitchen,Chinese,2026-08-09,19,3,6620.22,20,827.9,4.83,Mobile Money,Kwame N.,Delivered,40,34,4.7,-1.31646,36.75622
+5080,John Adeyemi,Accra,Burger Barn,Continental,2026-08-13,20,6,2181.53,0,645.01,3.68,Wallet,Ruth W.,Cancelled,48,0,,5.6863,-0.24341
+5081,Ife Kamau,Kampala,Mama Put Kitchen,Continental,2026-07-02,20,3,3072.53,15,502.8,2.17,Mobile Money,Chidi O.,Cancelled,29,0,,0.34235,32.55834
+5082,Ife Osei,Nairobi,Burger Barn,Indian,2026-07-11,11,2,4725.26,15,464.33,1.38,Mobile Money,Ruth W.,Delivered,23,24,3.6,-1.28463,36.80006
+5083,Emeka Abara,Lagos,Curry Leaf,Local,2026-07-26,18,1,3127.66,0,366.64,0.89,Cash on Delivery,Kwame N.,Preparing,23,0,,6.58459,3.47912
+5084,Musa Otieno,Kampala,Spice Route,Local,2026-07-03,8,2,3183.32,5,875.85,8.92,Mobile Money,Tunde A.,Delivered,52,50,3.6,0.37686,32.63259
+5085,Blessing Nwosu,Accra,Golden Wok,Italian,2026-07-16,16,7,5247.09,15,395.59,1.02,Card,Fatima B.,Cancelled,21,0,,5.60098,-0.13978
+5086,Grace Chukwu,Accra,Spice Route,Indian,2026-07-07,16,4,2722.05,20,882.81,7.31,Card,Amara K.,Delivered,51,52,4.3,5.65922,-0.20022
+5087,Tariq Mensah,Lagos,The Pizza Yard,Local,2026-08-11,13,7,5980.22,0,568.17,3.38,Mobile Money,Ruth W.,Delivered,28,26,4.7,6.65132,3.36488
+5088,Emeka Bello,Abuja,Sweet Treats Bakery,Fast Food,2026-07-03,22,2,5510.94,0,527.2,3.76,Wallet,Chidi O.,Delivered,32,31,3.9,9.09237,7.32601
+5089,Yusuf Bello,Accra,Mama Put Kitchen,Indian,2026-07-07,21,3,5494.22,10,644.79,3.6,Wallet,Amara K.,Pending,39,0,,5.60954,-0.14791
+5090,Musa Abara,Kampala,Urban Grill,Local,2026-07-09,8,2,2243.1,0,637.5,4.45,Cash on Delivery,Kwame N.,Delivered,43,56,4.4,0.35613,32.60705
+5091,Zainab Bello,Nairobi,Sweet Treats Bakery,Local,2026-07-07,11,3,7024.99,0,431.85,1.85,Mobile Money,Fatima B.,Delivered,22,8,4.9,-1.22658,36.8862
+5092,Mary Okafor,Kampala,Urban Grill,Italian,2026-07-26,11,4,3587.74,0,345.57,0.73,Mobile Money,Tunde A.,Delivered,21,18,5.0,0.31764,32.57196
+5093,Tariq Okafor,Kampala,Spice Route,Fast Food,2026-07-17,21,6,8085.05,0,475.18,2.14,Cash on Delivery,Samuel T.,Delivered,29,28,3.4,0.33368,32.57541
+5094,Zainab Osei,Abuja,Golden Wok,Fast Food,2026-08-11,15,3,3794.0,5,775.75,4.22,Cash on Delivery,Samuel T.,Delivered,43,38,4.5,8.99963,7.4071
+5095,John Okafor,Kampala,The Pizza Yard,Italian,2026-07-12,18,6,6261.43,10,420.3,1.5,Cash on Delivery,Ngozi E.,Delivered,24,29,3.6,0.28841,32.62709
+5096,Blessing Okafor,Abuja,Ocean Basket,Chinese,2026-07-25,20,5,2871.99,10,909.5,6.05,Mobile Money,Kwame N.,Delivered,48,52,4.9,9.05061,7.32509
+5097,Joy Abara,Abuja,Urban Grill,Continental,2026-07-30,19,3,2723.76,10,606.69,2.91,Card,Fatima B.,Delivered,29,28,3.7,9.0737,7.4354
+5098,Joy Mensah,Accra,Sweet Treats Bakery,Italian,2026-07-29,9,7,5314.38,5,413.15,1.42,Wallet,Kwame N.,Delivered,27,25,3.9,5.69215,-0.18802
+5099,John Osei,Accra,The Pizza Yard,Chinese,2026-08-05,10,4,1825.65,0,680.36,3.48,Card,Kwame N.,Delivered,40,39,3.9,5.6305,-0.23993
+5100,Blessing Osei,Lagos,Green Bowl,Italian,2026-07-10,13,2,3051.44,0,723.31,4.17,Wallet,Amara K.,Delivered,41,40,4.3,6.4788,3.27497
+5101,Musa Abara,Kampala,Sweet Treats Bakery,Local,2026-07-23,13,7,6455.65,0,707.9,4.36,Card,Tunde A.,Preparing,45,0,,0.3112,32.57568
+5102,Kelechi Abara,Lagos,Sweet Treats Bakery,Chinese,2026-08-06,19,7,8973.57,0,653.75,5.89,Mobile Money,Chidi O.,Delivered,51,49,4.6,6.59314,3.45159
+5103,Grace Otieno,Kampala,Golden Wok,Indian,2026-08-08,10,1,1676.77,0,370.8,1.14,Cash on Delivery,Fatima B.,Preparing,25,0,,0.40393,32.66623
+5104,Mary Okafor,Lagos,Mama Put Kitchen,Continental,2026-07-28,13,7,8448.16,0,1004.77,5.9,Card,Amara K.,Preparing,42,0,,6.52581,3.39697
+5105,Zainab Mensah,Accra,The Pizza Yard,Fast Food,2026-07-30,11,7,8052.09,0,967.29,6.24,Mobile Money,Tunde A.,Delivered,47,39,4.7,5.58157,-0.0889
+5106,Ife Bello,Accra,The Pizza Yard,Fast Food,2026-08-08,10,6,7353.3,10,460.43,1.38,Wallet,Samuel T.,Pending,21,0,,5.65995,-0.18915
+5107,Peace Bello,Accra,Spice Route,Indian,2026-07-29,10,2,5533.54,10,479.2,1.57,Mobile Money,Chidi O.,Pending,23,0,,5.55403,-0.13933
+5108,Zainab Chukwu,Accra,Ocean Basket,Local,2026-08-12,10,5,5719.38,15,604.91,4.98,Cash on Delivery,Kwame N.,Pending,41,0,,5.6233,-0.20956
+5109,Joy Okafor,Nairobi,Curry Leaf,Italian,2026-07-06,16,4,5705.82,10,560.18,2.42,Card,Kwame N.,Delivered,34,35,3.3,-1.17847,36.79617
+5110,David Bello,Accra,Spice Route,Continental,2026-07-16,14,5,5799.03,5,894.68,6.83,Cash on Delivery,Ngozi E.,Delivered,43,46,4.3,5.61397,-0.22088
+5111,David Abara,Abuja,Burger Barn,Local,2026-07-06,14,5,7235.5,0,1163.28,8.04,Cash on Delivery,Ngozi E.,Pending,48,0,,9.03772,7.29557
+5112,Blessing Abara,Accra,Spice Route,Continental,2026-07-05,15,5,3367.51,5,385.17,1.41,Mobile Money,Chidi O.,Delivered,25,35,4.4,5.62422,-0.12265
+5113,Tariq Bello,Nairobi,Burger Barn,Fast Food,2026-07-22,19,4,4118.89,0,441.44,1.83,Mobile Money,Samuel T.,Delivered,18,14,4.2,-1.3156,36.78982
+5114,Ada Okafor,Nairobi,Golden Wok,Chinese,2026-07-11,20,5,2752.77,5,654.12,3.37,Mobile Money,Chidi O.,Preparing,37,0,,-1.36181,36.78183
+5115,Zainab Bello,Nairobi,Mama Put Kitchen,Fast Food,2026-07-19,15,4,7670.81,0,377.46,0.72,Mobile Money,Samuel T.,Preparing,21,0,,-1.25705,36.7629
+5116,Ife Mensah,Nairobi,Sweet Treats Bakery,Continental,2026-07-20,17,1,3543.84,5,388.44,0.91,Mobile Money,Fatima B.,Delivered,22,16,3.7,-1.23621,36.81168
+5117,Tariq Kamau,Lagos,Spice Route,Local,2026-07-28,19,1,5035.13,0,432.73,1.7,Mobile Money,Tunde A.,Delivered,35,31,3.9,6.50885,3.46737
+5118,Ada Osei,Lagos,The Pizza Yard,Local,2026-08-12,18,7,7307.38,10,1070.49,9.8,Cash on Delivery,Samuel T.,Delivered,66,67,4.6,6.50554,3.48389
+5119,Grace Abara,Abuja,Spice Route,Indian,2026-08-08,10,7,8167.15,15,737.8,3.71,Cash on Delivery,Tunde A.,Delivered,30,47,3.2,9.02842,7.31556
+5120,Musa Abara,Lagos,Sweet Treats Bakery,Continental,2026-07-18,22,5,2755.97,10,475.3,2.03,Card,Samuel T.,Preparing,15,0,,6.5169,3.36148
+5121,Blessing Nwosu,Nairobi,Burger Barn,Local,2026-07-15,10,2,5889.89,10,435.45,1.56,Mobile Money,Tunde A.,Delivered,25,34,4.7,-1.32022,36.77018
+5122,Kelechi Adeyemi,Accra,Curry Leaf,Indian,2026-08-04,14,6,7453.94,5,427.6,1.37,Cash on Delivery,Amara K.,Delivered,22,29,4.8,5.55315,-0.13758
+5123,Emeka Bello,Accra,Golden Wok,Local,2026-07-06,17,2,1696.51,0,480.13,2.13,Card,Kwame N.,Out for Delivery,27,0,,5.69831,-0.17267
+5124,Zainab Bello,Nairobi,Golden Wok,Indian,2026-07-25,14,3,5748.26,10,490.98,2.05,Mobile Money,Ruth W.,Delivered,34,28,4.2,-1.26878,36.79007
+5125,Emeka Abara,Kampala,Ocean Basket,Indian,2026-07-20,11,3,3474.59,5,532.9,2.71,Cash on Delivery,Fatima B.,Delivered,36,42,3.7,0.37622,32.58613
+5126,Mary Chukwu,Nairobi,Burger Barn,Local,2026-07-09,21,1,4836.61,0,771.29,4.3,Card,Tunde A.,Delivered,34,25,4.2,-1.24793,36.79803
+5127,Musa Bello,Lagos,Curry Leaf,Fast Food,2026-07-28,9,6,4900.72,0,642.48,2.99,Mobile Money,Amara K.,Delivered,32,41,3.7,6.56295,3.45991
+5128,Tariq Mensah,Accra,Mama Put Kitchen,Continental,2026-07-15,11,4,3844.99,15,899.34,5.17,Mobile Money,Ruth W.,Delivered,55,56,4.6,5.58304,-0.15965
+5129,Ife Otieno,Nairobi,Ocean Basket,Continental,2026-07-09,22,3,3011.91,10,542.15,2.58,Cash on Delivery,Ngozi E.,Out for Delivery,28,0,,-1.27847,36.85539
+5130,Joy Mensah,Accra,Spice Route,Local,2026-07-30,18,4,2664.11,5,1029.44,8.43,Mobile Money,Tunde A.,Out for Delivery,53,0,,5.59025,-0.32035
+5131,Tariq Abara,Nairobi,Green Bowl,Chinese,2026-07-08,9,1,1854.33,10,820.78,5.09,Cash on Delivery,Fatima B.,Delivered,28,31,4.5,-1.27018,36.81856
+5132,Yusuf Adeyemi,Nairobi,Curry Leaf,Chinese,2026-07-31,19,4,5173.05,5,701.49,3.64,Mobile Money,Chidi O.,Preparing,29,0,,-1.27502,36.92606
+5133,Ada Chukwu,Lagos,Green Bowl,Italian,2026-07-08,22,4,3463.18,5,704.19,4.31,Cash on Delivery,Amara K.,Preparing,50,0,,6.50527,3.44551
+5134,David Mensah,Nairobi,Burger Barn,Local,2026-07-20,9,3,3242.25,0,521.34,2.17,Card,Samuel T.,Preparing,40,0,,-1.35856,36.72955
+5135,Kelechi Bello,Accra,Golden Wok,Continental,2026-08-06,14,6,7241.89,5,581.36,2.68,Card,Kwame N.,Preparing,30,0,,5.61101,-0.20267
+5136,Emeka Kamau,Abuja,Green Bowl,Fast Food,2026-07-11,15,2,5605.18,10,562.52,2.61,Cash on Delivery,Amara K.,Delivered,25,24,4.1,9.06629,7.33852
+5137,Ife Abara,Accra,Urban Grill,Fast Food,2026-08-04,9,1,4043.15,0,496.96,1.88,Mobile Money,Ngozi E.,Delivered,24,24,4.5,5.50918,-0.10144
+5138,Mary Okafor,Lagos,The Pizza Yard,Chinese,2026-08-02,11,4,7816.93,10,389.2,1.23,Cash on Delivery,Fatima B.,Cancelled,26,0,,6.54978,3.39141
+5139,Zainab Mensah,Abuja,Burger Barn,Local,2026-08-10,10,7,4969.38,0,700.97,4.46,Cash on Delivery,Tunde A.,Preparing,34,0,,9.12477,7.36021
+5140,Ada Kamau,Nairobi,Ocean Basket,Continental,2026-07-08,10,3,6332.92,10,843.19,5.7,Cash on Delivery,Fatima B.,Delivered,46,40,4.7,-1.16568,36.82361
+5141,David Nwosu,Kampala,Sweet Treats Bakery,Chinese,2026-08-02,14,1,1438.85,10,544.2,4.06,Mobile Money,Amara K.,Delivered,37,38,4.8,0.32804,32.45213
+5142,Kelechi Kamau,Abuja,Curry Leaf,Indian,2026-08-12,14,7,8507.28,10,631.85,2.98,Mobile Money,Amara K.,Delivered,37,37,3.7,9.04956,7.34435
+5143,Tariq Adeyemi,Abuja,Burger Barn,Continental,2026-08-04,11,4,7123.28,10,1348.13,10.85,Wallet,Ruth W.,Delivered,55,45,4.7,9.02103,7.40042
+5144,Zainab Abara,Nairobi,Ocean Basket,Local,2026-07-09,12,2,6504.52,20,436.17,2.01,Cash on Delivery,Ngozi E.,Cancelled,32,0,,-1.28167,36.86418
+5145,Yusuf Abara,Kampala,Green Bowl,Local,2026-08-06,10,5,5973.2,5,705.41,3.72,Card,Amara K.,Delivered,35,35,4.3,0.35772,32.48543
+5146,Peace Bello,Kampala,Golden Wok,Local,2026-07-05,19,3,5594.4,10,940.81,6.22,Cash on Delivery,Samuel T.,Out for Delivery,50,0,,0.30704,32.56344
+5147,Tariq Adeyemi,Lagos,Spice Route,Local,2026-07-27,11,7,5607.46,10,455.08,1.47,Card,Kwame N.,Out for Delivery,36,0,,6.51565,3.42968
+5148,Musa Chukwu,Abuja,Urban Grill,Local,2026-07-23,21,3,6024.42,0,690.89,4.68,Wallet,Samuel T.,Delivered,43,32,4.8,8.97757,7.32603
+5149,David Bello,Kampala,Sweet Treats Bakery,Fast Food,2026-07-24,16,4,6048.56,0,1276.79,8.78,Mobile Money,Ngozi E.,Out for Delivery,53,0,,0.39392,32.59396
+5150,Joy Kamau,Lagos,Golden Wok,Indian,2026-07-24,20,4,7091.06,5,567.25,3.15,Card,Chidi O.,Delivered,24,28,3.9,6.48587,3.3825
+5151,Yusuf Otieno,Kampala,Spice Route,Continental,2026-07-02,17,2,4326.01,0,630.75,3.51,Card,Kwame N.,Delivered,47,46,3.7,0.34587,32.66822
+5152,Grace Okafor,Abuja,Ocean Basket,Fast Food,2026-07-23,11,4,2244.84,0,421.28,2.02,Wallet,Kwame N.,Delivered,34,40,3.9,9.00517,7.38709
+5153,Emeka Otieno,Kampala,Sweet Treats Bakery,Continental,2026-08-12,17,1,4389.72,0,722.4,4.28,Card,Ngozi E.,Delivered,37,31,4.1,0.31848,32.57392
+5154,Joy Kamau,Abuja,Curry Leaf,Chinese,2026-07-20,12,5,2554.18,10,490.72,1.85,Cash on Delivery,Amara K.,Delivered,32,34,2.9,9.06252,7.44135
+5155,Ife Osei,Nairobi,Green Bowl,Chinese,2026-07-13,9,6,3791.83,0,584.9,3.03,Card,Chidi O.,Pending,33,0,,-1.29266,36.75558
+5156,John Abara,Accra,Golden Wok,Continental,2026-08-14,11,7,3896.12,15,402.36,1.14,Cash on Delivery,Amara K.,Pending,21,0,,5.62769,-0.19804
+5157,Peace Osei,Lagos,The Pizza Yard,Chinese,2026-07-05,12,3,5476.63,5,364.07,0.59,Cash on Delivery,Chidi O.,Delivered,24,21,4.8,6.59635,3.35641
+5158,Mary Kamau,Nairobi,Green Bowl,Local,2026-07-22,10,2,2788.92,10,532.03,2.3,Cash on Delivery,Amara K.,Delivered,22,22,4.5,-1.25546,36.81495
+5159,Kelechi Kamau,Nairobi,Green Bowl,Fast Food,2026-07-24,8,4,2781.74,0,474.07,2.27,Card,Tunde A.,Out for Delivery,27,0,,-1.24399,36.86432
+5160,Yusuf Kamau,Accra,Green Bowl,Fast Food,2026-07-22,22,5,3525.2,5,585.63,2.43,Card,Ruth W.,Delivered,37,36,4.7,5.67601,-0.15929
+5161,David Otieno,Kampala,Sweet Treats Bakery,Continental,2026-08-11,15,7,9190.17,0,812.18,5.0,Cash on Delivery,Tunde A.,Delivered,45,50,4.7,0.37609,32.54507
+5162,Tariq Nwosu,Accra,Burger Barn,Continental,2026-07-19,14,1,4952.88,10,991.8,5.8,Card,Ruth W.,Delivered,50,47,3.8,5.60186,-0.18017
+5163,Joy Chukwu,Nairobi,Curry Leaf,Local,2026-08-13,21,2,1828.14,0,751.81,3.82,Wallet,Tunde A.,Delivered,29,21,4.0,-1.24164,36.89642
+5164,Joy Nwosu,Nairobi,Curry Leaf,Fast Food,2026-07-04,11,2,1681.83,15,850.34,4.78,Mobile Money,Samuel T.,Delivered,37,48,3.0,-1.23845,36.78033
+5165,Blessing Bello,Nairobi,Sweet Treats Bakery,Continental,2026-08-03,14,2,4767.9,0,498.01,1.88,Card,Chidi O.,Out for Delivery,33,0,,-1.25967,36.82916
+5166,Kelechi Nwosu,Kampala,Spice Route,Fast Food,2026-07-27,20,4,3145.11,5,453.54,1.59,Cash on Delivery,Kwame N.,Delivered,19,15,3.9,0.27487,32.57284
+5167,Blessing Osei,Abuja,Curry Leaf,Fast Food,2026-07-11,17,7,5713.31,0,604.53,4.33,Mobile Money,Chidi O.,Delivered,46,45,4.3,9.03443,7.39545
+5168,Musa Otieno,Lagos,Mama Put Kitchen,Continental,2026-07-11,13,1,3454.07,10,434.27,1.45,Cash on Delivery,Fatima B.,Delivered,27,27,3.7,6.51066,3.29767
+5169,Tariq Osei,Abuja,Golden Wok,Italian,2026-08-02,11,6,8231.56,5,443.0,1.35,Cash on Delivery,Fatima B.,Delivered,25,22,4.0,9.11548,7.46914
+5170,John Otieno,Lagos,The Pizza Yard,Local,2026-07-29,8,5,4917.05,0,1622.23,14.49,Wallet,Kwame N.,Pending,77,0,,6.52333,3.34048
+5171,Tariq Bello,Lagos,Urban Grill,Italian,2026-07-28,9,5,6597.1,0,667.67,3.28,Card,Fatima B.,Pending,34,0,,6.58124,3.4305
+5172,Blessing Bello,Lagos,Spice Route,Chinese,2026-07-03,10,5,3101.94,0,451.14,2.27,Mobile Money,Kwame N.,Out for Delivery,30,0,,6.59016,3.34813
+5173,John Nwosu,Accra,Spice Route,Local,2026-07-27,19,1,6743.01,0,474.83,2.11,Card,Samuel T.,Delivered,26,11,4.5,5.66366,-0.21828
+5174,Mary Chukwu,Accra,Curry Leaf,Local,2026-08-14,17,6,8714.14,20,404.82,1.16,Mobile Money,Fatima B.,Delivered,30,41,4.3,5.66398,-0.12634
+5175,Yusuf Otieno,Accra,Urban Grill,Fast Food,2026-07-01,14,2,5340.85,5,623.99,3.77,Cash on Delivery,Chidi O.,Preparing,35,0,,5.55185,-0.13731
+5176,Peace Adeyemi,Nairobi,Urban Grill,Indian,2026-07-22,19,4,5265.52,0,471.61,2.58,Cash on Delivery,Amara K.,Delivered,35,38,3.9,-1.26797,36.83233
+5177,Blessing Otieno,Accra,Sweet Treats Bakery,Indian,2026-07-23,10,5,3442.15,20,694.51,5.7,Cash on Delivery,Chidi O.,Delivered,47,38,4.1,5.57332,-0.14894
+5178,Mary Abara,Lagos,Spice Route,Fast Food,2026-08-10,11,5,6188.98,0,787.34,4.42,Cash on Delivery,Amara K.,Delivered,41,38,4.1,6.44195,3.36477
+5179,Kelechi Kamau,Kampala,Sweet Treats Bakery,Indian,2026-07-13,13,3,5979.81,5,524.44,2.52,Mobile Money,Amara K.,Delivered,29,24,4.3,0.33323,32.58208
+5180,Zainab Adeyemi,Nairobi,Sweet Treats Bakery,Indian,2026-07-22,21,3,3499.0,10,350.97,0.81,Cash on Delivery,Ruth W.,Pending,30,0,,-1.22586,36.78882
+5181,Tariq Nwosu,Kampala,The Pizza Yard,Local,2026-08-02,17,4,4332.19,15,500.66,3.29,Card,Tunde A.,Out for Delivery,33,0,,0.37064,32.6277
+5182,Tariq Chukwu,Lagos,Spice Route,Continental,2026-07-03,20,1,3759.98,10,574.07,3.1,Mobile Money,Fatima B.,Delivered,28,32,3.7,6.62529,3.34453
+5183,Musa Osei,Nairobi,Spice Route,Italian,2026-08-06,11,6,6775.47,5,351.0,0.73,Mobile Money,Samuel T.,Out for Delivery,24,0,,-1.28324,36.89616
+5184,Mary Mensah,Accra,Green Bowl,Local,2026-08-06,20,1,4868.11,20,719.46,4.1,Card,Ruth W.,Delivered,34,31,4.7,5.72609,-0.20279
+5185,Musa Mensah,Nairobi,The Pizza Yard,Fast Food,2026-08-02,9,4,5178.82,0,452.96,1.42,Card,Amara K.,Out for Delivery,41,0,,-1.28322,36.82293
+5186,Yusuf Okafor,Nairobi,Spice Route,Fast Food,2026-07-30,11,5,6526.29,20,734.08,5.89,Wallet,Amara K.,Preparing,57,0,,-1.29098,36.85984
+5187,Blessing Chukwu,Lagos,Golden Wok,Local,2026-08-03,15,1,2794.11,15,583.73,2.97,Mobile Money,Chidi O.,Out for Delivery,30,0,,6.46043,3.38039
+5188,Ife Adeyemi,Abuja,Spice Route,Chinese,2026-08-05,8,7,4319.84,15,443.38,2.07,Mobile Money,Kwame N.,Delivered,33,25,3.5,9.13203,7.3837
+5189,Blessing Nwosu,Abuja,The Pizza Yard,Local,2026-08-10,20,3,1813.01,0,580.79,3.59,Wallet,Ruth W.,Preparing,25,0,,9.05139,7.3971
+5190,Peace Otieno,Abuja,Mama Put Kitchen,Chinese,2026-07-20,21,1,5503.82,0,690.98,3.45,Mobile Money,Amara K.,Preparing,34,0,,9.04415,7.44329
+5191,John Okafor,Accra,Burger Barn,Local,2026-07-21,16,5,4065.09,10,612.22,3.37,Cash on Delivery,Amara K.,Delivered,46,41,4.2,5.66776,-0.22014
+5192,Zainab Adeyemi,Accra,Mama Put Kitchen,Fast Food,2026-07-29,12,4,4672.76,5,911.03,5.4,Card,Chidi O.,Delivered,51,41,4.3,5.66161,-0.19331
+5193,Ada Osei,Accra,Spice Route,Indian,2026-07-09,9,5,4173.39,5,574.21,3.73,Cash on Delivery,Samuel T.,Delivered,33,28,3.9,5.6603,-0.18649
+5194,Kelechi Mensah,Abuja,Spice Route,Continental,2026-08-08,17,6,4254.28,15,455.61,1.95,Mobile Money,Tunde A.,Pending,27,0,,9.05839,7.44183
+5195,Tariq Bello,Kampala,Curry Leaf,Fast Food,2026-08-04,16,4,5293.86,10,532.12,2.63,Wallet,Fatima B.,Delivered,40,33,4.3,0.34505,32.57751
+5196,Tariq Mensah,Lagos,Mama Put Kitchen,Indian,2026-07-29,19,6,4191.07,0,942.06,7.23,Card,Tunde A.,Out for Delivery,52,0,,6.52141,3.46961
+5197,Zainab Abara,Abuja,Golden Wok,Indian,2026-07-14,17,3,1714.79,5,519.34,1.83,Card,Amara K.,Delivered,25,27,4.5,9.11563,7.39077
+5198,Tariq Mensah,Lagos,The Pizza Yard,Local,2026-07-16,9,4,5990.82,0,571.48,4.06,Cash on Delivery,Ruth W.,Out for Delivery,32,0,,6.60208,3.36732
+5199,Tariq Otieno,Abuja,The Pizza Yard,Local,2026-07-20,9,2,3898.13,0,914.48,5.53,Wallet,Tunde A.,Delivered,36,29,3.8,9.09491,7.39005
+5200,Musa Adeyemi,Kampala,Ocean Basket,Indian,2026-07-30,19,5,5049.98,0,781.95,4.31,Cash on Delivery,Chidi O.,Delivered,48,38,3.0,0.44634,32.51667
+5201,Emeka Otieno,Abuja,Curry Leaf,Local,2026-08-05,10,2,4204.43,15,607.53,3.3,Cash on Delivery,Ruth W.,Preparing,45,0,,9.12136,7.34676
+5202,John Otieno,Kampala,Urban Grill,Local,2026-07-31,22,5,7799.95,10,593.54,3.64,Cash on Delivery,Kwame N.,Preparing,39,0,,0.33586,32.55597
+5203,Kelechi Okafor,Nairobi,Curry Leaf,Chinese,2026-08-11,9,6,4892.49,5,709.28,4.49,Cash on Delivery,Tunde A.,Preparing,45,0,,-1.25066,36.87869
+5204,Ife Osei,Accra,Urban Grill,Continental,2026-08-13,18,7,8444.99,0,441.14,1.82,Card,Fatima B.,Delivered,20,25,4.5,5.689,-0.18866
+5205,Ada Abara,Nairobi,Sweet Treats Bakery,Italian,2026-08-01,22,7,8226.33,10,635.71,3.11,Card,Ruth W.,Preparing,25,0,,-1.19219,36.79767
+5206,Blessing Otieno,Abuja,The Pizza Yard,Fast Food,2026-07-17,14,1,4718.21,15,1271.78,10.81,Cash on Delivery,Fatima B.,Delivered,68,63,3.6,9.13584,7.45993
+5207,Peace Okafor,Accra,Burger Barn,Italian,2026-07-27,8,1,3432.48,15,778.38,4.14,Cash on Delivery,Kwame N.,Delivered,27,27,4.3,5.60498,-0.10944
+5208,Blessing Adeyemi,Kampala,Curry Leaf,Chinese,2026-07-20,21,7,6380.65,5,628.11,3.37,Cash on Delivery,Kwame N.,Delivered,34,32,5.0,0.33677,32.64527
+5209,Yusuf Kamau,Abuja,Burger Barn,Italian,2026-07-29,10,3,3960.14,15,523.51,2.46,Card,Ngozi E.,Delivered,32,30,5.0,9.1053,7.35595
+5210,Zainab Okafor,Accra,Curry Leaf,Local,2026-08-06,15,1,3435.33,5,487.88,1.83,Cash on Delivery,Amara K.,Cancelled,21,0,,5.6874,-0.21176
+5211,Zainab Bello,Abuja,The Pizza Yard,Fast Food,2026-07-17,22,3,4980.45,5,634.78,3.71,Mobile Money,Samuel T.,Pending,28,0,,9.09819,7.48929
+5212,Peace Bello,Accra,Mama Put Kitchen,Chinese,2026-07-23,19,6,5171.38,15,743.37,3.88,Cash on Delivery,Ruth W.,Delivered,43,41,3.7,5.62643,-0.17494
+5213,Joy Adeyemi,Accra,Golden Wok,Italian,2026-07-03,8,3,2463.95,0,511.78,2.98,Cash on Delivery,Amara K.,Delivered,37,44,4.7,5.60627,-0.20038
+5214,Grace Osei,Nairobi,Spice Route,Continental,2026-08-03,20,1,3365.91,0,1905.52,13.56,Card,Samuel T.,Delivered,107,98,4.2,-1.30849,36.85782
+5215,Blessing Abara,Accra,Curry Leaf,Indian,2026-07-23,10,6,3976.58,0,510.94,1.94,Card,Samuel T.,Delivered,28,24,4.6,5.59559,-0.13664
+5216,John Otieno,Abuja,Green Bowl,Italian,2026-07-21,19,2,3687.88,5,484.21,1.65,Cash on Delivery,Ngozi E.,Delivered,27,23,3.9,9.08327,7.37003
+5217,Kelechi Nwosu,Lagos,Green Bowl,Indian,2026-07-24,17,3,4438.17,5,520.66,2.48,Cash on Delivery,Chidi O.,Preparing,29,0,,6.6103,3.39017
+5218,Grace Nwosu,Lagos,Green Bowl,Fast Food,2026-07-10,12,1,6353.26,10,635.11,3.04,Mobile Money,Fatima B.,Cancelled,27,0,,6.51241,3.42553
+5219,Musa Mensah,Nairobi,Ocean Basket,Chinese,2026-07-27,14,5,2335.02,5,438.78,1.77,Cash on Delivery,Samuel T.,Delivered,22,25,4.4,-1.28947,36.76389
+5220,David Bello,Kampala,The Pizza Yard,Indian,2026-08-03,9,4,5326.26,0,686.92,3.66,Card,Amara K.,Delivered,36,39,4.6,0.30433,32.58312
+5221,David Otieno,Lagos,Sweet Treats Bakery,Continental,2026-07-16,22,7,6448.17,15,567.55,3.91,Card,Samuel T.,Cancelled,37,0,,6.56023,3.32348
+5222,Musa Nwosu,Nairobi,Golden Wok,Indian,2026-07-06,11,3,2163.41,0,678.78,4.83,Cash on Delivery,Ruth W.,Delivered,31,25,3.5,-1.22377,36.77272
+5223,Musa Adeyemi,Accra,Green Bowl,Italian,2026-07-18,12,2,3009.31,15,493.44,2.23,Card,Ngozi E.,Delivered,24,24,5.0,5.68492,-0.21516
+5224,Emeka Adeyemi,Abuja,Mama Put Kitchen,Local,2026-07-09,15,2,1872.67,0,844.27,6.86,Mobile Money,Chidi O.,Delivered,54,48,5.0,9.08667,7.42246
+5225,Musa Kamau,Accra,Mama Put Kitchen,Chinese,2026-07-17,18,2,2901.21,5,684.48,4.62,Mobile Money,Kwame N.,Preparing,43,0,,5.63242,-0.2031
+5226,Grace Mensah,Abuja,Urban Grill,Continental,2026-07-29,15,4,3913.1,5,508.58,1.91,Cash on Delivery,Tunde A.,Delivered,18,30,3.5,9.06882,7.36618
+5227,Joy Otieno,Kampala,Sweet Treats Bakery,Indian,2026-07-06,15,1,3305.64,15,433.46,1.77,Cash on Delivery,Ruth W.,Out for Delivery,38,0,,0.374,32.58508
+5228,Emeka Okafor,Nairobi,The Pizza Yard,Chinese,2026-08-03,16,3,4946.02,0,571.22,2.59,Cash on Delivery,Chidi O.,Preparing,32,0,,-1.2764,36.76455
+5229,Mary Kamau,Nairobi,Curry Leaf,Italian,2026-07-11,20,6,2721.02,15,552.54,3.92,Card,Tunde A.,Delivered,36,37,5.0,-1.28919,36.84334
+5230,Emeka Chukwu,Lagos,Spice Route,Indian,2026-08-10,13,6,3545.29,5,754.5,4.29,Mobile Money,Samuel T.,Delivered,38,29,3.6,6.53129,3.43577
+5231,Yusuf Mensah,Nairobi,Mama Put Kitchen,Indian,2026-08-02,20,5,2279.54,5,796.75,4.62,Cash on Delivery,Ngozi E.,Delivered,35,27,4.2,-1.2695,36.81794
+5232,Zainab Okafor,Kampala,Curry Leaf,Fast Food,2026-07-13,19,7,6252.98,5,1173.82,10.39,Cash on Delivery,Kwame N.,Delivered,50,43,4.4,0.33289,32.57237
+5233,Emeka Nwosu,Lagos,Spice Route,Chinese,2026-07-26,22,6,3785.58,0,398.18,0.95,Wallet,Tunde A.,Delivered,34,31,4.8,6.51228,3.39787
+5234,Blessing Nwosu,Accra,Mama Put Kitchen,Indian,2026-07-05,21,5,4963.31,5,635.53,2.92,Cash on Delivery,Samuel T.,Delivered,34,39,4.1,5.68907,-0.28842
+5235,Ife Adeyemi,Nairobi,Golden Wok,Italian,2026-07-05,19,7,3439.13,0,1364.22,9.85,Card,Ngozi E.,Delivered,65,68,3.4,-1.15657,36.84874
+5236,Blessing Mensah,Accra,Sweet Treats Bakery,Continental,2026-08-13,11,1,1422.05,0,714.63,4.97,Mobile Money,Samuel T.,Delivered,53,56,4.7,5.54348,-0.03191
+5237,Peace Osei,Accra,Ocean Basket,Local,2026-08-06,19,6,7664.01,10,441.59,1.59,Cash on Delivery,Samuel T.,Delivered,23,16,5.0,5.54073,-0.19313
+5238,David Nwosu,Nairobi,Mama Put Kitchen,Local,2026-07-07,19,3,2240.32,5,677.94,3.54,Cash on Delivery,Amara K.,Delivered,39,35,4.3,-1.33996,36.81594
+5239,Peace Adeyemi,Abuja,Curry Leaf,Italian,2026-07-13,12,6,3099.46,0,517.93,2.81,Cash on Delivery,Amara K.,Delivered,26,27,4.5,9.07134,7.43578
+5240,Mary Adeyemi,Accra,Curry Leaf,Indian,2026-07-09,18,7,4886.03,0,597.64,2.75,Wallet,Ruth W.,Delivered,32,28,4.0,5.64849,-0.10473
+5241,Blessing Osei,Lagos,Curry Leaf,Fast Food,2026-07-18,11,4,7781.43,0,475.31,2.2,Cash on Delivery,Kwame N.,Delivered,23,21,3.8,6.55396,3.42795
+5242,Musa Osei,Nairobi,Sweet Treats Bakery,Italian,2026-07-14,15,1,4792.37,0,664.09,3.36,Cash on Delivery,Fatima B.,Delivered,28,30,4.9,-1.2835,36.71412
+5243,Mary Chukwu,Lagos,Green Bowl,Continental,2026-07-15,19,3,5043.57,10,696.46,6.08,Cash on Delivery,Chidi O.,Delivered,44,41,4.5,6.55085,3.40737
+5244,Musa Abara,Accra,Sweet Treats Bakery,Italian,2026-07-24,10,3,6994.76,0,446.01,2.33,Cash on Delivery,Ngozi E.,Delivered,23,24,4.6,5.5691,-0.0584
+5245,Mary Otieno,Accra,Urban Grill,Local,2026-07-09,13,7,3716.84,15,856.15,4.64,Card,Samuel T.,Delivered,30,39,5.0,5.59149,-0.15588
+5246,Musa Kamau,Lagos,Curry Leaf,Local,2026-08-09,19,7,8251.22,0,878.78,5.16,Cash on Delivery,Tunde A.,Delivered,53,51,3.7,6.5234,3.32147
+5247,David Adeyemi,Accra,The Pizza Yard,Continental,2026-08-02,14,4,3685.54,0,1070.46,6.82,Card,Kwame N.,Preparing,71,0,,5.52449,-0.17291
+5248,Ada Okafor,Nairobi,Burger Barn,Local,2026-08-04,22,7,7556.09,15,504.88,1.75,Card,Ruth W.,Preparing,32,0,,-1.35017,36.75787
+5249,Yusuf Bello,Accra,Ocean Basket,Continental,2026-07-08,8,4,4456.08,0,575.29,3.19,Mobile Money,Chidi O.,Delivered,34,25,4.0,5.54762,-0.12536
+5250,Blessing Osei,Lagos,Ocean Basket,Chinese,2026-08-01,18,3,4458.45,5,457.51,2.04,Cash on Delivery,Chidi O.,Delivered,26,19,4.8,6.56261,3.33141
+5251,Peace Kamau,Lagos,Ocean Basket,Local,2026-08-07,20,6,8169.41,20,527.81,3.36,Mobile Money,Ruth W.,Out for Delivery,41,0,,6.53667,3.38291
+5252,David Osei,Nairobi,Burger Barn,Chinese,2026-07-08,21,5,2874.71,15,601.74,3.35,Card,Tunde A.,Delivered,45,39,3.7,-1.26155,36.77901
+5253,Grace Abara,Lagos,Burger Barn,Indian,2026-08-03,10,4,7767.86,10,408.34,1.48,Cash on Delivery,Fatima B.,Delivered,23,22,4.3,6.43242,3.35188
+5254,Zainab Nwosu,Abuja,Spice Route,Italian,2026-07-17,22,4,3613.25,0,705.3,3.49,Mobile Money,Fatima B.,Out for Delivery,31,0,,9.00232,7.47291
+5255,Ada Kamau,Accra,Curry Leaf,Fast Food,2026-08-05,13,5,6655.02,5,945.17,10.71,Mobile Money,Samuel T.,Delivered,76,83,4.9,5.63686,-0.18183
+5256,Ada Otieno,Lagos,The Pizza Yard,Indian,2026-07-22,13,6,7430.08,20,594.94,4.3,Cash on Delivery,Amara K.,Delivered,41,42,4.5,6.38547,3.35124
+5257,Kelechi Bello,Accra,Urban Grill,Italian,2026-08-06,13,4,2160.57,15,396.48,1.29,Wallet,Fatima B.,Delivered,25,22,4.6,5.66493,-0.24426
+5258,Peace Osei,Lagos,The Pizza Yard,Indian,2026-07-07,17,1,6408.19,0,420.85,1.68,Card,Amara K.,Delivered,25,12,4.5,6.43323,3.28561
+5259,Yusuf Okafor,Lagos,Sweet Treats Bakery,Continental,2026-07-18,17,1,4201.57,0,527.26,3.09,Card,Samuel T.,Pending,44,0,,6.56657,3.31664
+5260,Kelechi Chukwu,Nairobi,Curry Leaf,Italian,2026-07-13,15,2,5170.58,0,468.92,1.7,Wallet,Ngozi E.,Delivered,31,31,3.9,-1.33653,36.8275
+5261,Ife Adeyemi,Accra,Curry Leaf,Local,2026-07-12,9,4,3224.91,0,825.69,6.6,Card,Fatima B.,Delivered,46,47,4.5,5.65615,-0.13799
+5262,Peace Adeyemi,Lagos,Golden Wok,Italian,2026-07-14,22,5,4715.92,10,416.28,1.2,Mobile Money,Fatima B.,Delivered,32,44,4.1,6.68481,3.35118
+5263,Musa Mensah,Abuja,Burger Barn,Continental,2026-07-18,11,6,6540.9,0,789.95,4.32,Cash on Delivery,Amara K.,Delivered,32,39,5.0,8.96284,7.47713
+5264,Blessing Nwosu,Kampala,Urban Grill,Chinese,2026-07-06,9,2,3937.7,0,400.96,1.05,Mobile Money,Ruth W.,Pending,31,0,,0.38237,32.54662
+5265,John Mensah,Kampala,Ocean Basket,Continental,2026-08-01,16,6,3062.38,0,611.12,3.06,Card,Ngozi E.,Pending,38,0,,0.25719,32.5706
+5266,Kelechi Kamau,Nairobi,Ocean Basket,Indian,2026-07-25,14,5,3271.84,5,426.99,1.55,Cash on Delivery,Chidi O.,Delivered,40,36,4.5,-1.27076,36.76792
+5267,Grace Mensah,Nairobi,Green Bowl,Indian,2026-08-07,17,1,6087.23,0,635.4,4.82,Card,Fatima B.,Delivered,30,29,4.2,-1.30244,36.87144
+5268,Yusuf Adeyemi,Abuja,Green Bowl,Chinese,2026-08-01,21,3,2445.6,5,769.07,5.92,Cash on Delivery,Ngozi E.,Pending,38,0,,9.08299,7.50348
+5269,Joy Nwosu,Accra,Mama Put Kitchen,Continental,2026-07-07,9,3,5437.7,0,760.82,3.91,Cash on Delivery,Ngozi E.,Delivered,35,38,4.2,5.55812,-0.27509
+5270,Tariq Bello,Nairobi,Spice Route,Local,2026-07-04,12,7,9897.74,20,892.61,6.09,Cash on Delivery,Fatima B.,Delivered,57,59,4.4,-1.25307,36.80459
+5271,Musa Mensah,Abuja,Golden Wok,Chinese,2026-07-20,15,7,3349.82,0,349.82,0.65,Cash on Delivery,Chidi O.,Delivered,32,25,4.4,9.00408,7.46184
+5272,Ada Nwosu,Lagos,Golden Wok,Italian,2026-07-22,19,6,3965.45,5,601.21,3.46,Cash on Delivery,Ngozi E.,Delivered,28,35,4.6,6.58648,3.30685
+5273,Mary Okafor,Lagos,Spice Route,Italian,2026-07-11,17,4,6236.52,0,771.36,4.28,Cash on Delivery,Ngozi E.,Pending,48,0,,6.50394,3.40753
+5274,John Bello,Kampala,Golden Wok,Italian,2026-08-05,13,4,2727.71,0,763.49,4.63,Mobile Money,Kwame N.,Delivered,50,39,3.9,0.27747,32.64357
+5275,David Abara,Nairobi,Ocean Basket,Local,2026-07-27,17,3,5472.6,0,685.79,4.12,Mobile Money,Tunde A.,Delivered,49,48,3.9,-1.21235,36.82581
+5276,Musa Osei,Nairobi,Green Bowl,Chinese,2026-08-03,22,6,6614.08,0,830.48,4.69,Mobile Money,Fatima B.,Delivered,34,35,5.0,-1.29547,36.84941
+5277,Grace Chukwu,Nairobi,Urban Grill,Local,2026-07-05,15,1,4489.11,0,645.19,3.44,Cash on Delivery,Kwame N.,Delivered,40,45,4.8,-1.19672,36.90995
+5278,David Otieno,Accra,Urban Grill,Indian,2026-08-06,21,2,3408.23,5,428.13,1.3,Mobile Money,Ruth W.,Delivered,30,27,4.1,5.66477,-0.08958
+5279,Yusuf Osei,Lagos,The Pizza Yard,Italian,2026-07-10,19,1,4961.35,10,456.34,2.19,Card,Kwame N.,Out for Delivery,34,0,,6.48449,3.3761
+5280,Ada Abara,Lagos,Urban Grill,Indian,2026-07-21,12,4,5717.97,0,739.46,6.62,Cash on Delivery,Chidi O.,Preparing,57,0,,6.52015,3.35258
+5281,Ife Abara,Abuja,Burger Barn,Indian,2026-07-20,11,3,2468.82,5,1026.32,6.16,Cash on Delivery,Kwame N.,Delivered,49,41,4.3,9.08255,7.3526
+5282,Mary Abara,Nairobi,Urban Grill,Fast Food,2026-08-06,19,2,4502.82,5,705.79,4.23,Mobile Money,Amara K.,Delivered,36,27,4.6,-1.21578,36.87075
+5283,Musa Otieno,Accra,Golden Wok,Indian,2026-07-13,11,3,6375.81,0,714.51,4.88,Cash on Delivery,Tunde A.,Delivered,49,55,5.0,5.62558,-0.25559
+5284,Musa Otieno,Nairobi,Urban Grill,Indian,2026-07-11,13,7,6118.23,0,845.35,5.72,Card,Ngozi E.,Cancelled,53,0,,-1.28329,36.80927
+5285,Zainab Adeyemi,Nairobi,Spice Route,Indian,2026-07-16,11,4,4983.43,0,567.58,4.2,Wallet,Ruth W.,Cancelled,34,0,,-1.30209,36.82703
+5286,Ife Okafor,Kampala,Ocean Basket,Indian,2026-07-17,17,6,4852.83,0,1010.63,6.5,Cash on Delivery,Samuel T.,Delivered,49,57,3.3,0.34507,32.55735
+5287,Peace Adeyemi,Lagos,Green Bowl,Indian,2026-07-09,12,7,3371.14,5,765.0,6.37,Cash on Delivery,Kwame N.,Out for Delivery,44,0,,6.58963,3.39319
+5288,Grace Mensah,Nairobi,Green Bowl,Chinese,2026-07-08,17,7,3465.3,20,1684.81,12.79,Wallet,Tunde A.,Delivered,82,86,5.0,-1.29191,36.95013
+5289,Mary Otieno,Nairobi,Burger Barn,Chinese,2026-07-11,22,3,1768.81,20,507.14,2.25,Card,Ruth W.,Delivered,29,23,4.5,-1.31185,36.81582
+5290,Blessing Bello,Nairobi,Sweet Treats Bakery,Fast Food,2026-07-22,20,7,8337.99,20,474.64,2.28,Cash on Delivery,Fatima B.,Delivered,32,42,1.7,-1.32033,36.80013
+5291,Ife Chukwu,Kampala,Ocean Basket,Italian,2026-07-16,22,7,4883.27,5,547.25,4.0,Mobile Money,Chidi O.,Preparing,47,0,,0.31991,32.63327
+5292,Zainab Nwosu,Abuja,Sweet Treats Bakery,Indian,2026-07-18,8,7,7913.41,0,1333.94,9.49,Mobile Money,Ruth W.,Delivered,61,58,5.0,9.0064,7.41058
+5293,Peace Otieno,Kampala,Curry Leaf,Chinese,2026-08-02,14,3,2727.42,0,781.41,6.82,Card,Ngozi E.,Delivered,56,51,3.1,0.31008,32.65447
+5294,John Bello,Abuja,Golden Wok,Italian,2026-07-11,11,2,3057.41,0,631.95,5.26,Card,Ngozi E.,Delivered,41,42,5.0,9.15142,7.40683
+5295,Blessing Mensah,Nairobi,Burger Barn,Indian,2026-08-10,21,5,5625.2,0,1049.06,7.11,Cash on Delivery,Chidi O.,Cancelled,44,0,,-1.30243,36.80948
+5296,Peace Kamau,Nairobi,Urban Grill,Indian,2026-08-03,18,7,5552.03,0,650.74,4.33,Cash on Delivery,Ruth W.,Delivered,39,43,4.9,-1.25688,36.73271
+5297,Joy Mensah,Kampala,Golden Wok,Indian,2026-07-08,12,7,7618.2,5,517.57,2.61,Card,Fatima B.,Delivered,19,13,4.3,0.22366,32.50151
+5298,Ife Nwosu,Nairobi,The Pizza Yard,Italian,2026-07-15,16,4,7529.76,0,1120.07,10.96,Cash on Delivery,Kwame N.,Delivered,66,68,2.9,-1.26368,36.73012
+5299,Emeka Otieno,Abuja,Sweet Treats Bakery,Continental,2026-07-09,17,2,6107.71,0,760.7,4.13,Mobile Money,Samuel T.,Delivered,40,36,4.6,9.06843,7.41757
+5300,Kelechi Bello,Lagos,Curry Leaf,Indian,2026-07-13,15,3,3115.03,10,788.83,6.28,Mobile Money,Ngozi E.,Preparing,38,0,,6.50033,3.31109
+5301,Emeka Nwosu,Abuja,Golden Wok,Fast Food,2026-07-17,15,5,6535.68,0,347.2,0.65,Cash on Delivery,Amara K.,Delivered,28,23,4.5,9.08555,7.46138
+5302,Musa Abara,Kampala,Ocean Basket,Fast Food,2026-07-06,8,4,2601.61,15,355.77,0.71,Card,Chidi O.,Delivered,29,28,4.7,0.32281,32.58401
+5303,Zainab Okafor,Lagos,Green Bowl,Indian,2026-07-01,14,3,7505.65,0,554.83,3.53,Cash on Delivery,Chidi O.,Out for Delivery,35,0,,6.41821,3.36699
+5304,Ife Osei,Kampala,Curry Leaf,Continental,2026-07-20,13,3,4956.53,5,434.4,1.7,Mobile Money,Ruth W.,Delivered,30,38,3.2,0.39371,32.54031
+5305,David Bello,Nairobi,The Pizza Yard,Local,2026-08-01,20,1,2883.95,0,543.01,3.74,Cash on Delivery,Ngozi E.,Delivered,43,45,4.7,-1.27995,36.85301
+5306,Ada Otieno,Lagos,The Pizza Yard,Continental,2026-07-14,20,3,2210.03,5,457.79,2.27,Card,Chidi O.,Pending,25,0,,6.5087,3.33898
+5307,Tariq Otieno,Abuja,Burger Barn,Continental,2026-08-08,19,5,1661.94,0,1485.22,13.94,Card,Ngozi E.,Delivered,85,90,5.0,9.02819,7.34933
+5308,Tariq Abara,Nairobi,Ocean Basket,Indian,2026-07-17,8,2,2933.03,0,974.35,5.98,Card,Ngozi E.,Delivered,47,53,3.1,-1.36559,36.88132
+5309,Blessing Nwosu,Abuja,Mama Put Kitchen,Fast Food,2026-08-10,20,7,7235.25,10,778.32,7.54,Mobile Money,Fatima B.,Delivered,54,49,3.4,9.08769,7.41633
+5310,Ada Okafor,Lagos,Green Bowl,Indian,2026-07-11,13,1,5821.08,0,356.75,0.78,Mobile Money,Fatima B.,Preparing,17,0,,6.60507,3.36745
+5311,Joy Osei,Accra,Spice Route,Chinese,2026-07-25,14,5,8717.41,0,897.69,5.22,Card,Ruth W.,Delivered,45,34,3.3,5.61386,-0.15493
+5312,Ife Adeyemi,Accra,Burger Barn,Fast Food,2026-08-04,22,4,2738.82,15,619.79,2.82,Mobile Money,Kwame N.,Delivered,38,44,4.3,5.53456,-0.18655
+5313,Joy Osei,Lagos,Mama Put Kitchen,Chinese,2026-07-03,21,6,6370.36,0,1068.85,7.63,Wallet,Amara K.,Delivered,50,62,4.5,6.53566,3.39835
+5314,Musa Kamau,Abuja,Green Bowl,Chinese,2026-08-11,8,7,4030.9,5,653.53,4.75,Card,Ngozi E.,Pending,37,0,,9.07383,7.35776
+5315,Mary Osei,Abuja,The Pizza Yard,Indian,2026-07-17,13,4,4584.33,5,563.23,3.09,Card,Kwame N.,Delivered,24,11,4.8,9.1197,7.50212
+5316,John Adeyemi,Accra,Ocean Basket,Continental,2026-07-23,19,5,4667.15,0,401.02,1.39,Cash on Delivery,Kwame N.,Delivered,26,29,4.7,5.63404,-0.21598
+5317,Ada Otieno,Accra,The Pizza Yard,Italian,2026-07-29,16,5,3343.88,5,536.33,3.49,Mobile Money,Ngozi E.,Out for Delivery,48,0,,5.45441,-0.1092
+5318,Ada Abara,Accra,Curry Leaf,Italian,2026-07-29,11,4,4790.7,0,840.68,6.53,Card,Ruth W.,Preparing,48,0,,5.63096,-0.19644
+5319,Yusuf Adeyemi,Kampala,Sweet Treats Bakery,Local,2026-07-02,15,2,2362.77,10,1046.94,7.9,Card,Chidi O.,Out for Delivery,58,0,,0.29743,32.62285
+5320,Musa Abara,Accra,Spice Route,Local,2026-08-09,20,4,4091.51,0,503.99,2.5,Cash on Delivery,Fatima B.,Delivered,34,35,4.1,5.53261,-0.15029
+5321,Zainab Nwosu,Abuja,Sweet Treats Bakery,Local,2026-07-29,11,2,5113.45,0,1513.92,12.56,Mobile Money,Amara K.,Preparing,73,0,,9.06708,7.45594
+5322,Grace Okafor,Lagos,Ocean Basket,Local,2026-08-14,19,4,3121.39,0,782.98,6.21,Card,Ngozi E.,Delivered,55,51,4.4,6.54495,3.33717
+5323,Peace Kamau,Accra,Ocean Basket,Continental,2026-07-22,19,5,8256.75,15,439.7,1.73,Mobile Money,Fatima B.,Delivered,21,21,4.5,5.52166,-0.13322
+5324,Peace Mensah,Kampala,Mama Put Kitchen,Continental,2026-07-28,21,2,4405.65,10,459.01,1.48,Cash on Delivery,Chidi O.,Delivered,31,28,4.4,0.38283,32.67482
+5325,Ada Osei,Kampala,Ocean Basket,Fast Food,2026-07-20,12,2,6364.12,15,631.33,2.94,Wallet,Ngozi E.,Cancelled,23,0,,0.38577,32.56957
+5326,Blessing Bello,Abuja,Burger Barn,Local,2026-08-10,11,6,6280.92,10,498.31,2.5,Cash on Delivery,Fatima B.,Preparing,36,0,,9.07885,7.40034
+5327,Ife Bello,Abuja,The Pizza Yard,Local,2026-08-07,16,3,6188.22,10,710.17,4.35,Cash on Delivery,Fatima B.,Delivered,40,42,4.9,9.03312,7.37243
+5328,Zainab Kamau,Lagos,Mama Put Kitchen,Chinese,2026-08-10,15,2,5536.48,5,550.01,3.26,Mobile Money,Fatima B.,Delivered,28,26,4.2,6.47543,3.36188
+5329,John Kamau,Lagos,The Pizza Yard,Indian,2026-07-23,14,5,6928.38,15,466.85,2.64,Wallet,Chidi O.,Delivered,36,27,4.5,6.5757,3.46477
+5330,Ada Nwosu,Nairobi,Sweet Treats Bakery,Italian,2026-08-05,19,6,7180.26,5,413.66,1.09,Cash on Delivery,Amara K.,Delivered,20,25,4.2,-1.36766,36.77169
+5331,Musa Osei,Nairobi,Burger Barn,Italian,2026-07-17,19,6,3863.28,0,640.06,4.84,Card,Samuel T.,Delivered,35,18,3.9,-1.23888,36.77479
+5332,Peace Mensah,Abuja,Spice Route,Chinese,2026-07-21,11,6,2322.23,10,388.11,1.03,Mobile Money,Tunde A.,Pending,21,0,,9.06824,7.47915
+5333,Grace Kamau,Abuja,Sweet Treats Bakery,Fast Food,2026-08-04,19,7,5900.18,5,854.97,6.22,Mobile Money,Chidi O.,Delivered,56,52,4.0,9.07171,7.42983
+5334,David Otieno,Kampala,Sweet Treats Bakery,Chinese,2026-07-04,11,5,2569.91,0,358.28,0.82,Card,Ngozi E.,Cancelled,20,0,,0.2622,32.68852
+5335,Blessing Chukwu,Nairobi,Spice Route,Local,2026-08-01,14,3,2994.29,0,365.67,1.0,Card,Amara K.,Cancelled,14,0,,-1.29944,36.79938
+5336,Mary Abara,Kampala,Curry Leaf,Fast Food,2026-07-01,8,7,3481.47,0,439.11,1.72,Mobile Money,Ngozi E.,Pending,20,0,,0.37828,32.58881
+5337,Ada Okafor,Kampala,Golden Wok,Continental,2026-07-27,13,2,4846.85,15,575.27,2.35,Mobile Money,Ngozi E.,Delivered,35,30,4.1,0.28078,32.54947
+5338,Ada Chukwu,Abuja,The Pizza Yard,Local,2026-07-22,22,3,2470.88,0,498.66,2.05,Mobile Money,Ngozi E.,Delivered,29,32,4.0,9.10143,7.40577
+5339,Peace Nwosu,Abuja,Golden Wok,Italian,2026-07-22,14,6,6272.94,15,494.78,2.35,Card,Chidi O.,Delivered,34,35,3.3,9.08095,7.3099
+5340,Joy Bello,Kampala,Burger Barn,Fast Food,2026-07-23,18,7,7191.27,5,536.25,3.79,Cash on Delivery,Tunde A.,Pending,32,0,,0.31541,32.61675
+5341,Tariq Osei,Accra,Sweet Treats Bakery,Fast Food,2026-07-23,9,3,6797.58,10,468.03,1.75,Wallet,Ruth W.,Delivered,22,33,4.4,5.64643,-0.17083
+5342,Mary Chukwu,Abuja,Burger Barn,Continental,2026-07-19,17,6,3795.36,0,549.69,3.81,Mobile Money,Chidi O.,Delivered,45,36,4.8,8.96639,7.39572
+5343,John Bello,Accra,Sweet Treats Bakery,Italian,2026-07-21,13,7,5232.64,15,361.08,0.66,Mobile Money,Samuel T.,Preparing,20,0,,5.62103,-0.20652
+5344,Ada Adeyemi,Nairobi,Sweet Treats Bakery,Italian,2026-07-26,19,6,5965.45,5,478.7,1.7,Cash on Delivery,Amara K.,Pending,24,0,,-1.21113,36.77716
+5345,David Bello,Kampala,Mama Put Kitchen,Fast Food,2026-08-04,21,1,3880.62,0,382.85,0.97,Cash on Delivery,Amara K.,Delivered,29,30,4.1,0.4196,32.61889
+5346,John Okafor,Abuja,Green Bowl,Local,2026-07-25,15,5,6676.32,0,781.82,6.18,Mobile Money,Samuel T.,Preparing,46,0,,9.09599,7.34005
+5347,Mary Adeyemi,Kampala,Burger Barn,Chinese,2026-07-29,9,2,2710.23,0,419.4,1.9,Cash on Delivery,Ruth W.,Delivered,24,28,3.7,0.33252,32.60809
+5348,Mary Bello,Kampala,The Pizza Yard,Indian,2026-08-07,15,6,8906.77,0,585.91,4.65,Wallet,Samuel T.,Delivered,48,38,3.3,0.31581,32.68622
+5349,Ada Bello,Lagos,Mama Put Kitchen,Fast Food,2026-08-14,9,1,1646.5,10,374.65,0.87,Card,Samuel T.,Delivered,21,20,5.0,6.50925,3.45348
+5350,Blessing Nwosu,Lagos,Mama Put Kitchen,Local,2026-07-05,14,7,6657.09,15,1183.67,7.82,Mobile Money,Amara K.,Delivered,68,64,5.0,6.55159,3.30394
