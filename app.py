@@ -142,7 +142,7 @@ if page == "🏠 Home":
 
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("Total Orders", f"{total_orders:,}")
-    c2.metric("Revenue", f"₦{revenue:,.0f}")
+    c2.metric("Revenue", f"${revenue:,.0f}")
     c3.metric("On-Time Delivery Rate", f"{on_time_rate:.1f}%")
     c4.metric("Avg. Customer Rating", f"{avg_rating:.2f} ⭐" if not np.isnan(avg_rating) else "—")
 
@@ -215,7 +215,7 @@ elif page == "📦 Orders":
         ],
         column_config={
             "status": st.column_config.SelectboxColumn("status", options=STATUS_FLOW, required=True),
-            "order_amount": st.column_config.NumberColumn("order_amount", format="₦%.2f"),
+            "order_amount": st.column_config.NumberColumn("order_amount", format="$%.2f"),
             "order_date": st.column_config.DateColumn("order_date"),
         },
         disabled=["order_id", "customer_name", "city", "restaurant", "cuisine", "order_date", "order_amount", "payment_method"],
@@ -259,7 +259,7 @@ elif page == "➕ New Order":
             order_date = st.date_input("Order date", value=date.today())
             item_count = st.slider("Number of items", 1, 15, 3)
             distance_km = st.slider("Distance to customer (km)", 0.5, 20.0, 3.0, step=0.1)
-            order_amount = st.number_input("Order amount (₦)", min_value=0.0, value=2500.0, step=50.0)
+            order_amount = st.number_input("Order amount ($)", min_value=0.0, value=2500.0, step=50.0)
             express = st.checkbox("Express delivery")
 
         submitted = st.form_submit_button("Place order", use_container_width=True)
@@ -316,7 +316,7 @@ elif page == "🚚 Track Delivery":
     c1, c2, c3 = st.columns(3)
     c1.metric("Restaurant", order["restaurant"])
     c2.metric("City", order["city"])
-    c3.metric("Amount", f"₦{order['order_amount']:,.2f}")
+    c3.metric("Amount", f"${order['order_amount']:,.2f}")
 
     current_idx = STATUS_FLOW.index(order["status"]) if order["status"] in STATUS_FLOW else 0
     st.markdown("**Delivery progress**")
@@ -375,12 +375,12 @@ elif page == "📊 Analytics":
         c1, c2 = st.columns(2)
         with c1:
             by_cuisine = filtered.groupby("cuisine")["order_amount"].sum().sort_values()
-            fig = px.bar(by_cuisine, orientation="h", labels={"value": "Revenue (₦)", "cuisine": ""})
+            fig = px.bar(by_cuisine, orientation="h", labels={"value": "Revenue ($)", "cuisine": ""})
             fig.update_layout(showlegend=False, height=380, title="Revenue by cuisine")
             st.plotly_chart(fig, use_container_width=True)
         with c2:
             daily = filtered.groupby(filtered["order_date"].dt.date)["order_amount"].sum().cumsum()
-            fig = px.line(daily, labels={"value": "Cumulative revenue (₦)", "order_date": "Date"})
+            fig = px.line(daily, labels={"value": "Cumulative revenue ($)", "order_date": "Date"})
             fig.update_layout(showlegend=False, height=380, title="Cumulative revenue over time")
             st.plotly_chart(fig, use_container_width=True)
 
