@@ -15,6 +15,8 @@ user interaction, and cloud deployment.
 | 📊 **Analytics** | Tabbed Plotly charts — bar, line, pie, histogram, scatter, box plot, choropleth-style map |
 
 All pages respond to the shared **sidebar filters** (city, status, date range).
+Each page is also deep-linkable via a `?page=` query param (`home`, `orders`,
+`new_order`, `track`, `analytics`), e.g. `http://localhost:8501/?page=orders`.
 
 ## Files
 
@@ -84,4 +86,4 @@ On Windows: `Win+Shift+S`. Save them into a `screenshots/` folder alongside
 - [x] GitHub repository link — https://github.com/myglord/streamlit-delivery-management
 - [ ] Streamlit Cloud app URL
 - [x] Sample dataset (`delivery_orders.csv`)
-- [ ] Screenshots (Home page + output pages)
+- [x] Screenshots (Home page + output pages) — see [`screenshots/`](screenshots)

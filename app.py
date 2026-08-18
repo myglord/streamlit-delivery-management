@@ -75,12 +75,19 @@ def orders_df() -> pd.DataFrame:
 # Sidebar navigation
 # --------------------------------------------------------------------------- #
 
+PAGES = ["🏠 Home", "📦 Orders", "➕ New Order", "🚚 Track Delivery", "📊 Analytics"]
+PAGE_SLUGS = {"home": PAGES[0], "orders": PAGES[1], "new_order": PAGES[2],
+              "track": PAGES[3], "analytics": PAGES[4]}
+
 st.sidebar.title("🛵 Delivery Ops")
+_default_page = PAGE_SLUGS.get(st.query_params.get("page"), PAGES[0])
 page = st.sidebar.radio(
     "Navigate",
-    ["🏠 Home", "📦 Orders", "➕ New Order", "🚚 Track Delivery", "📊 Analytics"],
+    PAGES,
+    index=PAGES.index(_default_page),
     label_visibility="collapsed",
 )
+st.query_params["page"] = {v: k for k, v in PAGE_SLUGS.items()}[page]
 
 st.sidebar.divider()
 st.sidebar.caption("Filters apply to Home, Orders & Analytics")
