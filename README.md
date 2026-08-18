@@ -54,19 +54,16 @@ Then open the URL Streamlit prints (usually `http://localhost:8501`).
 
 ## GitHub repository
 
-**https://github.com/myglord/streamlit-delivery-management** (private)
+**https://github.com/myglord/streamlit-delivery-management** (public)
 
 ## Deploy to Streamlit Community Cloud
 
 1. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub.
-2. Since this repo is **private**, authorize the Streamlit app for private-repo
-   access when prompted (GitHub → Settings → Applications → Streamlit, or
-   accept the OAuth prompt during setup).
-3. Click **"New app"** → pick `myglord/streamlit-delivery-management`,
+2. Click **"New app"** → pick `myglord/streamlit-delivery-management`,
    branch `main`, main file path `app.py`.
-4. Click **Deploy**. The first build takes 1–3 minutes.
-5. Your app will be live at `https://<something>.streamlit.app`.
-6. **Update this README** with the live Streamlit Cloud URL once deployed.
+3. Click **Deploy**. The first build takes 1–3 minutes.
+4. Your app will be live at `https://<something>.streamlit.app`.
+5. **Update this README** with the live Streamlit Cloud URL once deployed.
 
 ## Screenshots for submission
 
